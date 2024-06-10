@@ -1,4 +1,4 @@
 # hello-world
-Just repository
+- changed my info on 030822.
 
 My name is CHOI YOUNG EUN.
